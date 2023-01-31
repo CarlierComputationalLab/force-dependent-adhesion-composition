@@ -2,7 +2,7 @@ Mechanotransduction model
 
 The process of adhesion formation, maturation and disassembly are modelled with three major proteins (integrins, talin and vinculin) using differential equations. 
 
-Description of the files:
+Description of the code files:
 
 ModelPipeline3.m - the main model file. Dependencies: nicePlot.m and DE_definitions11.m
 
